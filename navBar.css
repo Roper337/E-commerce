@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: greenyellow;
+}
+
+.navbar a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: red;
+}
+
+.basket-icon {
+    cursor: pointer;
+    font-size: 20px;
+}
